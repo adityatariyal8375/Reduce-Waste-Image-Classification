@@ -1,0 +1,4 @@
+tensorFlow
+keras
+scikit-learn
+opencv-python 
