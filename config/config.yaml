@@ -1,0 +1,6 @@
+data_ingestion:
+  root_dir: "artifacts/data_ingestion"
+  source_train_dir: "C:/Users/aditya/waste image classification project/TRAIN"
+  source_test_dir: "C:/Users/aditya/waste image classification project/TEST"
+  train_dir: "artifacts/data_ingestion/train"
+  test_dir: "artifacts/data_ingestion/test"
